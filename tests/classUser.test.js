@@ -115,7 +115,7 @@ describe('Checking checkPassword() in class User', () => {
   });
   //After 3 bad logins with wrong pass user deleted
   test('Empty array after 3 bad pass', () => {
-    expect(badPersUsers.length).toBe(10);
+    expect(badPersUsers.length).toBe(0);
   });
 
 });
