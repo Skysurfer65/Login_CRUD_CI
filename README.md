@@ -7,9 +7,9 @@ when the user push to the repository. Since javascript is a scripted language
 that needs an environment to be interpret (as it's normally done in the browser),
 I have to setup my VM to run Node. In this simulated back-end mode I can run my tests.
 To see testresults you need to look into the logfiles under Actions.
+
 -------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------
-# If you want to try the app follow these instructions
+If you want to try the app follow these instructions
 # HOW-TO
 !!! You cannot login without first creating an account !!!
 - To create an account:
