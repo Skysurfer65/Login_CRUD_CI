@@ -1,7 +1,7 @@
 /**
 **********************************************
 * Unit test of class UIser
-* @author Richard Fehling, MVT21 EC Utbildning
+* @author Richard Fehling, MVT22 EC Utbildning
 **********************************************
 */
 //Setup class User dependency
