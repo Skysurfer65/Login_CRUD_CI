@@ -12,7 +12,7 @@ const User = require("../src/js/classUser.js");
 
 describe('Checking validateUserID() in class User', () => {
   //Setup test arrays
-  const goodUsers = ["bax", "Bax2", "admin", "Admin", "Åäö20", "longUserID01234567890123456789"];
+  const goodUsers = ["bax1", "Bax2", "admin", "Admin", "Åäö20", "longUserID01234567890123456789"];
   const badUsers = ["", null, undefined, "axl", "richard", "adam1@", "pat rik", "tooLongID0123456789012345678901"];
   //Variables
   let adminID;   
